@@ -6,7 +6,7 @@ Aplikasi web untuk kompresi file yang mudah digunakan dan modern. File Compresso
 ![Tampilan UI](Untitled.png)
 
 ## Flowchart
-![Flowchart](flowchartt.png)
+![Flowchart](pp.png)
 
 ## Fitur
 
